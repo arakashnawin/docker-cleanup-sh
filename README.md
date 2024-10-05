@@ -80,4 +80,9 @@ Running the script in dry-run mode:
 
 - If any errors occur during the deletion process, the script will log them and continue with the next steps.
 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ---
