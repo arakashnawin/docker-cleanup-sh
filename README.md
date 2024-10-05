@@ -1,3 +1,4 @@
+---
 # Docker Cleanup Script
 
 This script is designed to clean up unused and unnecessary Docker artifacts such as stopped containers, dangling images, unused volumes, and images older than two months. It provides options for both a dry-run (for testing purposes) and production execution.
@@ -79,6 +80,4 @@ Running the script in dry-run mode:
 
 - If any errors occur during the deletion process, the script will log them and continue with the next steps.
 
-## License
-
-This script is provided under the MIT License.
+---
